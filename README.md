@@ -18,14 +18,16 @@ I have research experience in:
 
 **I'm actively looking for Summer PhD Internships.**
 
-
-<a href="//linkedin.com/in/munikarmanish">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="//munikatmanish.github.io">
-  <img src="https://img.shields.io/static/v1?label=Visit&message=Website&color=green" />
-</a>
+<p align='center'>
+  <a href="//linkedin.com/in/munikarmanish">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+<p align='center'>
+  <a href="//munikatmanish.github.io">
+    <img src="https://img.shields.io/static/v1?label=Visit&message=Website&color=green" />
+  </a>
+</p>
 
 <!--
 **munikarmanish/munikarmanish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
