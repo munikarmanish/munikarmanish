@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an international PhD student at The University of Texas at Arlington, majoring in Computer Science.
+I'm an international PhD student at [The University of Texas at Arlington](//uta.edu), majoring in Computer Science.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=munikarmanish&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
