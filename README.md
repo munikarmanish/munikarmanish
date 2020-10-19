@@ -2,10 +2,6 @@
 
 I'm an international PhD student at [The University of Texas at Arlington](//uta.edu), majoring in Computer Science.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=munikarmanish&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munikarmanish&show_icons=true&layout=compact&hide=coffeescript,postscript,css,html,javascript,jupyter%20notebook&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
 I have industry experience in:
 - Web development
 - Machine learning (NLP and CV)
@@ -15,6 +11,10 @@ I have research experience in:
 - Machine learning
 - Information retrieval
 - Computer networks (network virtualization)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=munikarmanish&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munikarmanish&show_icons=true&layout=compact&hide=coffeescript,postscript,css,html,javascript,jupyter%20notebook&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 **I'm actively looking for Summer PhD Internships.**
 
