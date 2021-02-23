@@ -1,33 +1,19 @@
-### Hi there 👋
+### Hi there! 👋
 
-I'm an international PhD student at [The University of Texas at Arlington](//uta.edu), majoring in Computer Science.
+I'm a PhD student at [The University of Texas at Arlington](//uta.edu), majoring in Computer Science. I have industry experience in web development, machine learning (NLP and CV), and data Science. I'm currently researching on improving the performance of virtual networks in Linux.
 
-I have industry experience in:
-- Web development
-- Machine learning (NLP and CV)
-- Data Science
-
-I have research experience in:
-- Machine learning
-- Information retrieval
-- Computer networks (network virtualization)
+<p><img src="https://komarev.com/ghpvc/?username=munikarmanish" alt="munikarmanish" /></p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=munikarmanish&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munikarmanish&show_icons=true&layout=compact&hide=coffeescript,postscript,css,html,javascript,jupyter%20notebook&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-**I'm actively looking for Summer PhD Internships.**
+#### Find me on
 
-<p align='center'>
-  <a href="//linkedin.com/in/munikarmanish">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-<p align='center'>
-  <a href="//munikatmanish.github.io">
-    <img src="https://img.shields.io/static/v1?label=Visit&message=Website&color=green" />
-  </a>
-</p>
+<ul>
+  <li><a href="//linkedin.com/in/munikarmanish">LinkedIn</a></li> :computer:
+  <li><a href="//munikarmanish.github.io">Website</a></li> :earth_americas:
+  <li><a href="mailto:munikarmanish@gmail.com">Email</a></li> :email:
+</ul>
 
 <!--
 **munikarmanish/munikarmanish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
