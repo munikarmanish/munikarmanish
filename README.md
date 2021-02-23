@@ -9,11 +9,9 @@ I'm a PhD student at [The University of Texas at Arlington](//uta.edu), majoring
 
 #### Find me on
 
-<ul>
-  <li><a href="//linkedin.com/in/munikarmanish">LinkedIn</a></li> :computer:
-  <li><a href="//munikarmanish.github.io">Website</a></li> :earth_americas:
-  <li><a href="mailto:munikarmanish@gmail.com">Email</a></li> :email:
-</ul>
+- [LinkedIn](//linkedin.com/in/munikarmanish) :computer:
+- [Web](//munikarmanish.github.io) :earth_americas:
+- [Email](mailto:munikarmanish@gmail.com) :email:
 
 <!--
 **munikarmanish/munikarmanish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
